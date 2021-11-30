@@ -26,15 +26,15 @@
 
 ##
 
-🙂Luciana Rodrigues Fontana
+🙂 Luciana Rodrigues Fontana
 
-🏠São Paulo-SP, Brasil
+🏠 São Paulo-SP, Brasil
 
-🎓Análise e Desenvolvimento de Sistemas - Faculdade Impacta de Tecnologia
+🎓 Análise e Desenvolvimento de Sistemas - Faculdade Impacta de Tecnologia
 
-🌎Português, Inglês, Espanhol
+🌎 Português, Inglês, Espanhol
 
-💻Freelancer
+💻 Freelancer
 
 ##
 
