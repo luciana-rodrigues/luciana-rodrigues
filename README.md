@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 <!--Imagem de Apresentação-->
-<img width="500em" height="350em" src="https://res.cloudinary.com/lucy-rodrigues/image/upload/v1638231403/personal/girl_on_laptop_mom13p.gif">
+<img width="600em" height="400em" src="https://res.cloudinary.com/lucy-rodrigues/image/upload/v1638231403/personal/girl_on_laptop_mom13p.gif">
 
 - 📋 Atualmente estou trabalhando em: Projeto Integrador da Faculdade
 - 📚 Atualmente estou aprendendo: Python, Flask, SQL, APIs, etc
@@ -9,8 +9,8 @@
 
 <!--Github Stats-->
 <div>
-<img height="175em" width="450em" src="https://github-readme-stats.vercel.app/api?username=luciana-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img height="175em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-rodrigues&layout=compact&langs_count=16&theme=dark">
+<img height="175em" width="400em" src="https://github-readme-stats.vercel.app/api?username=luciana-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+<img height="175em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-rodrigues&layout=compact&langs_count=16&theme=dark">
 </div>
 
 <!--Tech Icon Badges-->
