@@ -1,4 +1,4 @@
-### Olá, bem-vindos ao meu cantinho. | Hello, welcome to my place. | Hola, bienvenidos a mi espacio!
+### Olá, bem-vindos ao meu cantinho. | Hello, welcome to my place. | Hola, bienvenidos a mi espacio.
 ##
 <!--Github Stats-->
 <div align="center">
