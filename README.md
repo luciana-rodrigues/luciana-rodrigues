@@ -3,7 +3,7 @@
 <!--Github Stats-->
 <div align="center">
 <img alt="STATUS" height="175em" width="400em" src="https://github-readme-stats.vercel.app/api?username=luciana-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img alt="LANGUAGES" height="175em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-rodrigues&layout=compact&theme=dracula">
+<img alt="LANGUAGES" height="175em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-rodrigues&layout=compact&langs_count=20&theme=dracula">
 </div>
 
 
